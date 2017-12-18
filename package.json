@@ -1,0 +1,29 @@
+{
+  "author": "Oleg Byzov",
+  "name": "finding_files",
+  "version": "1.0.5",
+  "description": "finding files api",
+  "main": "index.js",
+  "scripts": {
+    "test": "find"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OleJoN7/node_cli.git"
+  },
+  "bin": {
+    "find": "index.js"
+  },
+  "keywords": [
+    "find directory",
+    "finding files",
+    "cli",
+    "file",
+    "diretory"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OleJoN7/node_cli/issues"
+  },
+  "homepage": "https://github.com/OleJoN7/node_cli#ReadMe"
+}
