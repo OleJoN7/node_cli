@@ -1,6 +1,7 @@
 # Node finding_files cli
 
-First Node.js expierience
+- First Node.js expierience
+
 Hard project was created not without helping of good developers:
 
 <h1> Node_Js Finding_files </h1>
